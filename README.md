@@ -1,4 +1,9 @@
 # Kill The Clowns - CS314 Project 4 "Your Own Game"
+- Final project created for CPSC 314 (Computer Graphics), University of British Columbia - January 2016 session. 
+- Link to course website: https://www.ugrad.cs.ubc.ca/~cs314/Vjan2016/
+- Play the game [here](http://www.siang.ca/kill-the-clowns/index.html)
+
+### Documentation (readme.txt) submitted for the course provided below.
 
 By submitting this file, I hereby declare that I worked individually on this assignment and wrote all of this code. I have listed all external resoures (web pages, books) used below. I have listed all people with whom I have had significant discussions about the project below.
 
@@ -232,17 +237,17 @@ The player wins the game by destroying all clowns. The player loses the game whe
 Detailed sources of technical references and credits provided in relevant sections of the the P4.js source code and in this README.
 
 Inspiration for night-sky + grassy + creepy map:
-http://oos.moxiecode.com/js_webgl/grass_quads/
-http://oos.moxiecode.com/js_webgl/run_and_dont_look_back/
+- http://oos.moxiecode.com/js_webgl/grass_quads/
+- http://oos.moxiecode.com/js_webgl/run_and_dont_look_back/
 
 References for how to begin building an FPS with three.js
-http://www.isaacsukin.com/news/2012/06/how-build-first-person-shooter-browser-threejs-and-webglhtml5-canvas
-https://makc3d.wordpress.com/2014/07/20/threejs-first-person-shooter/
+- http://www.isaacsukin.com/news/2012/06/how-build-first-person-shooter-browser-threejs-and-webglhtml5-canvas
+- https://makc3d.wordpress.com/2014/07/20/threejs-first-person-shooter/
 
 Inspiration for the clown face
-https://www.facebook.com/kuasasiswa
-http://www.bbc.com/news/blogs-trending-35486530
-http://www.wsj.com/articles/malaysian-leader-spent-millions-on-luxury-goods-1459383835
+- https://www.facebook.com/kuasasiswa
+- http://www.bbc.com/news/blogs-trending-35486530
+- http://www.wsj.com/articles/malaysian-leader-spent-millions-on-luxury-goods-1459383835
 
 Pyramid shaped trees:
-http://humaan2.com.au/chris/mountains/?seed=2632
+- http://humaan2.com.au/chris/mountains/?seed=2632
